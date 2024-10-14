@@ -2,13 +2,13 @@ import Header from "@/app/cmoponents/header/page";
 import React from "react";
 import Footer from "@/app/cmoponents/footer/page";
 
-export default function About() {
+export default function Blog3() {
   return (
     <main className="flex min-h-screen flex-col">
       <Header />
       <div style={{'display':'flex','background':'#f39ff3',}}>
         <div style={{'width':'100%','padding':'10px','fontSize': '30px', 'border':'1px solid gray', 'marginTop':'70px', 'marginRight':'20px', 'marginLeft':'10px'}}>
-            <h1>About Page.</h1>
+            <h1>Blog3 Page.</h1>
             <div>
             <div id="Translation">
 
